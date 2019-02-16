@@ -43,34 +43,37 @@
 
 ## 5. 项目截图
 
+
 1. 首页
 
-<img src="/picture/msite.png" width="300" height="500" alt="msite"/>
+<img src="/picture/msite.png" width="450" height="800" alt="msite"/>
 
 2. 订单
 
-<img src="/picture/order.png" width="300" height="500" alt="order"/>
+<img src="/picture/order.png" width="450" height="800" alt="order"/>
 
 3. 搜索
 
-<img src="/picture/search.png" width="300" height="500" alt="search"/>
+<img src="/picture/search.png" width="450" height="800" alt="search"/>
 
 4. 个人
 
-<img src="/picture/profile.png" width="300" height="500" alt="profile"/>
+<img src="/picture/profile.png" width="450" height="800" alt="profile"/>
 
 5. 登陆
 
-<img src="/picture/login.png" width="300" height="500" alt="login"/>
+<img src="/picture/login.png" width="450" height="800" alt="login"/>
+
 
 6. 点餐
 
-<img src="/picture/food.png" width="300" height="500" alt="food"/>
+<img src="/picture/food.png" width="450" height="800" alt="food"/>
 
 7. 评价
 
-<img src="/picture/rating.png" width="300" height="500" alt="rating"/>
+<img src="/picture/rating.png" width="450" height="800" alt="rating"/>
 
 8. 商店详情
 
-<img src="/picture/shop-detail.png" width="300" height="500" alt="shop-detail"/>
+<img src="/picture/shop-detail.png" width="450" height="800" alt="shop-detail"/>
+
