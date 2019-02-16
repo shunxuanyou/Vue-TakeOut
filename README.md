@@ -46,7 +46,7 @@
 
 1. 首页
 
-<img src="/picture/msite.png" width="350" height="700" alt="msite"/>
+<img src="/picture/msite.png" width="450" height="800" alt="msite"/>
 
 2. 订单
 
