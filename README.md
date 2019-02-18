@@ -20,7 +20,7 @@
 
 ## 3. API接口文档
 
-[项目API接口文档]
+[项目API接口文档](takeout-server/API.md)
 
 ## 4. 运行项目
 
